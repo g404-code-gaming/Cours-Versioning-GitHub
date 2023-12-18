@@ -11,3 +11,5 @@ Au programme :
 Prêt pour cette aventure épique ? Alors, accrochez-vous, parce que ça va être aussi fun que formatif ! 🌟🎓
 
 Alors, on embarque ? 🚀🌌
+
+[Introduction au versioning](https://github.com/g404-code-gaming/Cours-Versioning-GitHub/blob/main/Cour/1.Introduction%20au%20versioning.md)
